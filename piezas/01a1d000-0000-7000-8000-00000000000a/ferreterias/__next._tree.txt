@@ -1,0 +1,6 @@
+:HL["/ferreteria-mundial-demo/_next/static/chunks/0vmvvo255y2mf.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"ferreterias","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"itemId","t":"d","k":"01a1d000-0000-7000-8000-00000000000a","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"piezas","h":96,"c":"$Q2"}]]
+0:{"b":"MsIk2T6kDnfZSzhEHaLPj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/ferreteria-mundial-demo/_next/static/chunks/0lzqm2zkdy163.js"
+3:I[92853,["$2"],""]
+4:I[14162,["$2"],"default"]
+5:"/ferreteria-mundial-demo/_next/static/chunks/1b752nv0rnpk8.js"
+6:I[38507,["$5"],"default"]
+7:I[70912,["$5"],"default"]
+8:I[95659,["$5"],"NavPill"]
+11:I[67060,["$2"],"LocateButton"]
+16:"ViewportBoundary"
+17:I[37693,["$5"],"$16"]
+18:"MetadataBoundary"
+19:I[37693,["$5"],"$18"]
+1a:"$Sreact.suspense"
+:HL["/ferreteria-mundial-demo/_next/static/chunks/0vmvvo255y2mf.css","style"]
+a:X
+d:X
+d:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","$L3",null,{"href":"/","className":"fm-press inline-flex min-h-11 items-center gap-2 rounded-full bg-white py-1 pl-1 pr-4 font-semibold shadow-sm shadow-slate-900/5","children":[["$","span",null,{"className":"grid size-9 place-items-center rounded-full bg-ice-100","children":["$","$L4",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-5","aria-hidden":true}]}],["$","span",null,{"className":"max-w-[60vw] truncate","children":"Inicio"}]]}],["$","header",null,{"className":"space-y-2","children":[["$","p",null,{"className":"font-semibold text-navy-500","children":"Pieza"}],["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-navy-900","children":"Cinta teflón"}],["$","p",null,{"className":"text-slate-700","children":["Nombre técnico: ",["$","strong",null,{"children":"Cinta de PTFE para roscas"}]]}],["$","p",null,{"className":"text-lg text-slate-700","children":"Cinta delgada que sella las roscas para que no se escape el agua."}]]}],["$","$L11",null,{"itemId":"01a1b906-2c2b-76aa-b127-43de88816688","label":"Ver ferreterías que la tienen"}],null,null,"$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$a"}}]]
+e:[["children",{"s":{"n":"itemId","t":"d","k":"01a1b906-2c2b-76aa-b127-43de88816688","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@f","v":"$d","s":"$a"},"c":"$Q10"}]]
+b:[["children",{"s":"piezas","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ferreteria-mundial-demo/_next/static/chunks/0vmvvo255y2mf.css","precedence":"next"}],["$","script","script-0",{"src":"/ferreteria-mundial-demo/_next/static/chunks/1b752nv0rnpk8.js","async":true}]],["$","html",null,{"lang":"es-CO","className":"_0bjUvq_variable","children":["$","body",null,{"className":"flex min-h-dvh flex-col font-sans text-base antialiased","children":[["$","a",null,{"href":"#contenido","className":"sr-only focus:not-sr-only focus:absolute focus:left-2 focus:top-2 focus:z-30 focus:rounded-full focus:bg-white focus:px-4 focus:py-3","children":"Saltar al contenido"}],["$","header",null,{"className":"fm-glass sticky top-0 z-10 bg-ice-100/80 backdrop-blur-xl backdrop-saturate-150","children":["$","div",null,{"className":"mx-auto flex h-16 max-w-3xl items-center justify-between px-4 sm:px-6","children":[["$","$L3",null,{"href":"/","className":"fm-press inline-flex min-h-11 items-center gap-3 rounded-full","children":[["$","span",null,{"className":"grid size-11 place-items-center rounded-full bg-navy-900 text-white","children":["$","$L4",null,{"icon":{"name":"wrench","size":24,"node":[["path",{"d":"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z","key":"1ngwbx"}]]},"className":"size-5","aria-hidden":true}]}],["$","span",null,{"className":"text-lg font-semibold tracking-tight","children":"Ferretería Mundial"}]]}],null]}]}],["$","main",null,{"id":"contenido","className":"mx-auto w-full max-w-3xl flex-1 px-4 pt-2 sm:px-6","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"space-y-4 pt-6","children":[["$","h1",null,{"className":"text-2xl font-semibold tracking-tight text-navy-900","children":"No encontramos esta página"}],["$","p",null,{"children":"Puede que el enlace esté mal escrito o que el contenido ya no esté publicado."}],["$","$L3",null,{"href":"/","className":"inline-flex min-h-12 items-center rounded-full bg-navy-900 px-4 font-semibold text-white hover:bg-navy-700","children":"Volver al inicio"}]]}],[]]}]}],["$","footer",null,{"className":"mx-auto w-full max-w-3xl px-4 pb-32 pt-10 sm:px-6","children":["$","p",null,{"className":"text-sm text-slate-500","children":["Versión de demostración con datos de ejemplo: las ferreterías, los precios y los teléfonos no son reales."," Esta es una muestra para compartir: la búsqueda, tu ubicación y el panel real de ferreterías solo están en la versión completa."]}]}],["$","$L8",null,{}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0c1d36"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cinta teflón · Ferretería Mundial"}],["$","meta","1",{"name":"description","content":"Cinta delgada que sella las roscas para que no se escape el agua."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$a"}},"a":"$@1c","u":"$@1d","b":"MsIk2T6kDnfZSzhEHaLPj"}
+1e:I[37693,["$5"],"OutletBoundary"]
+12:["$","section",null,{"className":"space-y-3","children":[["$","h2",null,{"className":"scroll-mt-24 px-1 text-xl font-semibold tracking-tight text-navy-900","children":"Características"}],["$","dl",null,{"className":"divide-y divide-slate-200 rounded-3xl bg-white shadow-sm shadow-slate-900/5","children":[["$","div","width",{"className":"flex justify-between gap-4 px-4 py-3","children":[["$","dt",null,{"className":"text-slate-700","children":"Ancho"}],["$","dd",null,{"className":"text-right font-semibold text-navy-900","children":["12"," mm"]}]]}]]}]]}]
+13:["$","script","script-0",{"src":"/ferreteria-mundial-demo/_next/static/chunks/0lzqm2zkdy163.js","async":true}]
+14:["$","$L1e",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+a:300
+1f:null
+1d:true
+a:C
+1c:0
+f:"$undefined"
+c:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+15:"$undefined"
