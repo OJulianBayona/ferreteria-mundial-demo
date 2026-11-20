@@ -1,4 +1,4 @@
-:HL["/ferreteria-mundial-demo/_next/static/chunks/05_5qcwbspjsz.css","style"]
+:HL["/ferreteria-mundial-demo/_next/static/chunks/0-_3w-cu3_zf1.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"diseno","h":96,"c":"$Q2"}]]
-0:{"b":"qwFl8OCiI4syxIPnoQOgB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7uV7mS1RIekHrfJM7G-j8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
